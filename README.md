@@ -9,3 +9,5 @@ The application can be invoked using the command "node index.js"
 ![alt text](assets/image.png)
 
 Repo: https://github.com/hiltyalec/ReadMeMaker
+
+Video: https://www.youtube.com/watch?v=UesAtkssDEQ

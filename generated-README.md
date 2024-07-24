@@ -1,4 +1,4 @@
-# ReadMeMaker
+# Project 11
   
     ## Table of Contents
     - [Description](#description)
@@ -10,16 +10,16 @@
     - [Questions](#questions)
   
     ## Description
-    This is a project that generates a readme
+    This project does many things that are interesting
   
     ## Installation
-    NPM i + node index.js
+    NPM I + node index.js
   
     ## Usage
-    Generates readme's for future repositories
+    generates a readme
   
     ## Contribution
-    Create a pull request
+    Create a Pull request
   
     ## Tests
     
