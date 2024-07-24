@@ -1,0 +1,23 @@
+{
+    "name": "markgen",
+    "version": "1.0.0",
+    "description": "A README Markdown Generator",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alec Hilty",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hiltyalec/ReadMeMaker"
+    },
+    "bugs": {
+      "url": "https://github.com/hiltyalec/ReadMeMaker/issues"
+    },
+    "homepage": "https://github.com/hiltyalec/ReadMeMaker#readme"
+  }
+  
